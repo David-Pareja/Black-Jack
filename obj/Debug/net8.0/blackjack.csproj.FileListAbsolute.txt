@@ -1,0 +1,14 @@
+C:\Users\Water\source\repos\blackjack\blackjack\obj\Debug\net8.0\blackjack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Water\source\repos\blackjack\blackjack\obj\Debug\net8.0\blackjack.AssemblyInfoInputs.cache
+C:\Users\Water\source\repos\blackjack\blackjack\obj\Debug\net8.0\blackjack.AssemblyInfo.cs
+C:\Users\Water\source\repos\blackjack\blackjack\obj\Debug\net8.0\blackjack.csproj.CoreCompileInputs.cache
+C:\Users\Water\source\repos\blackjack\blackjack\bin\Debug\net8.0\blackjack.exe
+C:\Users\Water\source\repos\blackjack\blackjack\bin\Debug\net8.0\blackjack.deps.json
+C:\Users\Water\source\repos\blackjack\blackjack\bin\Debug\net8.0\blackjack.runtimeconfig.json
+C:\Users\Water\source\repos\blackjack\blackjack\bin\Debug\net8.0\blackjack.dll
+C:\Users\Water\source\repos\blackjack\blackjack\bin\Debug\net8.0\blackjack.pdb
+C:\Users\Water\source\repos\blackjack\blackjack\obj\Debug\net8.0\blackjack.dll
+C:\Users\Water\source\repos\blackjack\blackjack\obj\Debug\net8.0\refint\blackjack.dll
+C:\Users\Water\source\repos\blackjack\blackjack\obj\Debug\net8.0\blackjack.pdb
+C:\Users\Water\source\repos\blackjack\blackjack\obj\Debug\net8.0\blackjack.genruntimeconfig.cache
+C:\Users\Water\source\repos\blackjack\blackjack\obj\Debug\net8.0\ref\blackjack.dll
